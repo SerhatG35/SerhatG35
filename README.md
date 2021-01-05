@@ -3,5 +3,5 @@
 Welcome to my Github page.
 
 - :mortar_board: College student
-- :star2: Java,HTML&CSS,JavaScript
+- :star2: Java, HTML&CSS, JavaScript
 - 🌱 Currently learning JavaScript
