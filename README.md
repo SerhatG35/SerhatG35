@@ -5,3 +5,5 @@ Welcome to my Github page.
 - :mortar_board: College student
 - :star2: Java, HTML&CSS, JavaScript
 - 🌱 Currently learning JavaScript
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SerhatG35&theme=maroongold&show_icons=true)
