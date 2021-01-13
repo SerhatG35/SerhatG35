@@ -7,3 +7,4 @@ Welcome to my Github page.
 - 🌱 Currently learning JavaScript
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SerhatG35&theme=maroongold&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatG35&layout=compact&theme=maroongold)](https://github.com/SerhatG35/github-readme-stats)
