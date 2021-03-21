@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=ED872D&height=150&section=header&text=hey,%20i%27m%20Serhat!&fontSize=70&fontColor=000000&animation=twinkling)
-
-Welcome to my Github page.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ED872D&height=100&section=header&text=Hey,%20i%27m%20Serhat!%20Welcome%20to%20my%20github%20page.&fontSize=35&fontColor=000000&animation=twinkling)
 
 - :mortar_board: College student
 - :orange_book: Love coding and learning new things
